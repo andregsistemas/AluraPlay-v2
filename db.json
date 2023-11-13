@@ -83,6 +83,27 @@
       "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 12
+    },
+    {
+      "titulo": "Comunidade e carreira tech: conheça a trajetória de uma Engenheira de Software | Jucilene Fernandes",
+      "descricao": "2 mil visualizações",
+      "url": "https://www.youtube.com/embed/A5qPpiJHgVg?si=y0bsZ0lmgpvbzZTE",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 13
+    },
+    {
+      "titulo": "Guia de Carreira NODE.JS | #HipstersPontoTube",
+      "descricao": "4 mil visualizações",
+      "url": "https://www.youtube.com/embed/aKtpRRe-AEU?si=bBW3flnUgxVFzdzQ",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 14
+    },
+    {
+      "titulo": "Ecossistema Rails com Alan Batista | #HipstersPontoTube",
+      "descricao": "7 mil visualizações",
+      "url": "https://www.youtube.com/embed/xUFr3NxVxcw?si=_PnR0dBEDfMItopI",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 15
     }
   ]
 }
